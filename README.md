@@ -1,5 +1,8 @@
 # 🔷 Kubernetes Cluster Architecture: Deep Structure
 
+![image](https://github.com/user-attachments/assets/cc5516d8-9cca-401c-8b2b-56331648ae11)
+
+
 ## 🔷 KUBERNETES CLUSTER
 
 ### 🧠 CONTROL PLANE (Master Node)
